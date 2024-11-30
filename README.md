@@ -50,7 +50,7 @@
 - Build a regression model to predict the aggregate rating of a restaurant based on available features.
 - Split the dataset into training and testing sets and evaluate the model's performance using appropriate metrics.
 - Experiment with different algorithms (e.g., linear regression, decision trees, random forest) and compare their performance.
-- 
+  
 ### Task 2: Customer Preference Analysis
 - Analyze the relationship between the type of cuisine and the restaurant's rating.
 - Identify the most popular cuisines among customers based on the number of votes.
